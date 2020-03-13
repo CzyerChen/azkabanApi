@@ -6,7 +6,7 @@
  * <author>          <time>                   <version>          <desc>
  * claire          2020-03-12 - 18:25          V1.3.4
  */
-package com.fibodt;
+package com.azkabanconn;
 
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 

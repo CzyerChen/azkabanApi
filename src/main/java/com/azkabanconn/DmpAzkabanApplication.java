@@ -6,7 +6,7 @@
  * <author>          <time>                   <version>          <desc>
  * claire          2020-03-12 - 12:26
  */
-package com.fibodt;
+package com.azkabanconn;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

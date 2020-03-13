@@ -6,13 +6,13 @@
  * <author>          <time>                   <version>          <desc>
  * claire          2020-03-12 - 18:26          V1.3.4           azkaban认证和调用
  */
-package com.fibodt.service;
+package com.azkabanconn.service;
 
 import com.alibaba.fastjson.JSON;
 import com.alibaba.fastjson.JSONObject;
-import com.fibodt.DmpAzkabanTestApplication;
-import com.fibodt.entity.dto.OkResponseDTO;
-import com.fibodt.utils.HttpClientUtils;
+import com.azkabanconn.DmpAzkabanTestApplication;
+import com.azkabanconn.entity.dto.OkResponseDTO;
+import com.azkabanconn.utils.HttpClientUtils;
 import org.junit.Test;
 import org.junit.runner.RunWith;
 import org.springframework.boot.test.context.SpringBootTest;

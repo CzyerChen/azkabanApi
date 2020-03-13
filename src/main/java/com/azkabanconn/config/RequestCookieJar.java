@@ -1,6 +1,6 @@
-package com.fibodt.config;
+package com.azkabanconn.config;
 
-import com.fibodt.entity.dto.CookieDTO;
+import com.azkabanconn.entity.dto.CookieDTO;
 import okhttp3.Cookie;
 import okhttp3.CookieJar;
 import okhttp3.HttpUrl;

@@ -1,4 +1,4 @@
-package com.fibodt.config;
+package com.azkabanconn.config;
 
 import javax.net.ssl.X509TrustManager;
 import java.security.cert.X509Certificate;

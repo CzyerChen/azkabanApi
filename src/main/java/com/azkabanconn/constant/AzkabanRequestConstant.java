@@ -6,7 +6,7 @@
  * <author>          <time>                   <version>          <desc>
  * claire          2020-03-13 - 09:42                        azkaban请求常量类
  */
-package com.fibodt.constant;
+package com.azkabanconn.constant;
 
 /**
  * 功能简述 <br/> 

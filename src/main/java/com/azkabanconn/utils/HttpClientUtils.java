@@ -1,7 +1,6 @@
-package com.fibodt.utils;
+package com.azkabanconn.utils;
 
-import com.fibodt.entity.dto.OkResponseDTO;
-import com.fibodt.utils.SpringContextUtil;
+import com.azkabanconn.entity.dto.OkResponseDTO;
 import lombok.extern.slf4j.Slf4j;
 import okhttp3.*;
 import org.apache.commons.lang3.exception.ExceptionUtils;

@@ -1,4 +1,4 @@
-package com.fibodt.config;
+package com.azkabanconn.config;
 
 import okhttp3.ConnectionPool;
 import okhttp3.CookieJar;

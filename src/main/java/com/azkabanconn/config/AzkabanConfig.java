@@ -6,7 +6,7 @@
  * <author>          <time>                   <version>          <desc>
  * claire          2020-03-13 - 09:41          V1.3.4
  */
-package com.fibodt.config;
+package com.azkabanconn.config;
 
 import lombok.Data;
 import org.springframework.boot.context.properties.ConfigurationProperties;

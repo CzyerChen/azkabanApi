@@ -1,4 +1,4 @@
-package com.fibodt.entity.dto;
+package com.azkabanconn.entity.dto;
 
 import lombok.Data;
 

@@ -1,4 +1,4 @@
-package com.fibodt.utils;
+package com.azkabanconn.utils;
 
 import org.springframework.beans.BeansException;
 import org.springframework.context.ApplicationContext;
