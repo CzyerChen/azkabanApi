@@ -1,0 +1,9 @@
+server:
+  port: 8080
+http:
+  connect-max-idle: 200
+  connect-keep-alive-duration: 5 #默认秒
+  client-connect-timeout: 30
+  client-read-timeout: 30
+  client-write-timeout: 30
+  enable-retry: true
