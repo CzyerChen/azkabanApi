@@ -18,8 +18,8 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
  * @date 2020-03-12 - 12:26
  */
 @SpringBootApplication
-public class DmpAzkabanApplication {
+public class AzkabanConnApplication {
      public static void main(String[] args){
-         SpringApplication.run(DmpAzkabanApplication.class,args);
+         SpringApplication.run(AzkabanConnApplication.class,args);
      }
 }

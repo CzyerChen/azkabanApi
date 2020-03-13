@@ -10,7 +10,7 @@ package com.azkabanconn.service;
 
 import com.alibaba.fastjson.JSON;
 import com.alibaba.fastjson.JSONObject;
-import com.azkabanconn.DmpAzkabanTestApplication;
+import com.azkabanconn.AzkabanConnTestApplication;
 import com.azkabanconn.entity.dto.OkResponseDTO;
 import com.azkabanconn.utils.HttpClientUtils;
 import org.junit.Test;
@@ -30,7 +30,7 @@ import java.util.concurrent.ConcurrentHashMap;
  * @date 2020-03-12 - 18:26
  * @since 1.3.4
  */
-@SpringBootTest(classes = DmpAzkabanTestApplication.class)
+@SpringBootTest(classes = AzkabanConnTestApplication.class)
 @RunWith(SpringJUnit4ClassRunner.class)
 public class AzkabanTaskTest {
 
