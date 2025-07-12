@@ -11,7 +11,7 @@
     <properties>
         <okhttp.version>4.2.2</okhttp.version>
         <spring-boot.version>2.0.4.RELEASE</spring-boot.version>
-        <common-lang3.version>3.4</common-lang3.version>
+        <common-lang3.version>3.18.0</common-lang3.version>
     </properties>
     <dependencies>
         <dependency>
